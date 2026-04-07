@@ -31,7 +31,7 @@
 - 版本：`0.1.0`
 - 标签：`task`、`notification`
 - 数据库：`mysql`、`postgresql`
-- 作者：`eginner01`
+- 作者：`Albert`
 
 ## 安装示例
 
